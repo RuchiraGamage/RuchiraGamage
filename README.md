@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RuchiraGamage
+- 👋 Hi, I’m Tharindu Ruchira Gamage
 - 👀 I’m interested in programming and to be a top rated coder
-- 🌱 I’m currently graduated from university of Moratuwa, Faculty of information Technology and working as a Software Engineer.
+- 🌱 I’m graduated from university of Moratuwa, Faculty of information Technology and currently working as a Software Engineer.
 - 💞️ I’m looking to collaborate on open sourse projects and organizations with competitive environment. 
-- 💞️ I have more than two year of working experiance in this field.
+- 💞️ I have more than two years of working experiance in this field.
 - 👀 Now I’m looking for new opportunities.
 - 📫 You can reach me via 
 - 👋 Linkedin: https://www.linkedin.com/in/htruchiragamage/
